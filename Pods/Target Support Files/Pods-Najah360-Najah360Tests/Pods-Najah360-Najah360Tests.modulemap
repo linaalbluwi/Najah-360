@@ -1,0 +1,6 @@
+module Pods_Najah360_Najah360Tests {
+  umbrella header "Pods-Najah360-Najah360Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

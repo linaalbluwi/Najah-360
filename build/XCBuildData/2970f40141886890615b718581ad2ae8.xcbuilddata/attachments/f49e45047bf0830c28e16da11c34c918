@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/RCTSwiftUI.build/Objects-normal/arm64/RCTSwiftUI-master.swiftconstvalues",
+    "dependencies" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/RCTSwiftUI.build/Objects-normal/arm64/RCTSwiftUI-master.d",
+    "diagnostics" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/RCTSwiftUI.build/Objects-normal/arm64/RCTSwiftUI-master.dia",
+    "emit-module-dependencies" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/RCTSwiftUI.build/Objects-normal/arm64/RCTSwiftUI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/RCTSwiftUI.build/Objects-normal/arm64/RCTSwiftUI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/RCTSwiftUI.build/Objects-normal/arm64/RCTSwiftUI-master.swiftdeps"
+  },
+  "/Users/h4/Downloads/Najah_3/node_modules/react-native/ReactApple/RCTSwiftUI/RCTSwiftUIContainerView.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RCTSwiftUI.build/Objects-normal/arm64/RCTSwiftUIContainerView.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/RCTSwiftUI.build/Objects-normal/arm64/RCTSwiftUIContainerView.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/RCTSwiftUI.build/Objects-normal/arm64/RCTSwiftUIContainerView.o"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/react-native-ble-manager-master.swiftconstvalues",
+    "dependencies" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/react-native-ble-manager-master.d",
+    "diagnostics" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/react-native-ble-manager-master.dia",
+    "emit-module-dependencies" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/react-native-ble-manager-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/react-native-ble-manager-master-emit-module.dia",
+    "swift-dependencies" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/react-native-ble-manager-master.swiftdeps"
+  },
+  "/Users/h4/Downloads/Najah_3/node_modules/react-native-ble-manager/ios/BleManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/BleManager-11c6dc1d1142937a75e2b7f60afcd24a.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/BleManager-11c6dc1d1142937a75e2b7f60afcd24a.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/BleManager-11c6dc1d1142937a75e2b7f60afcd24a.o"
+  },
+  "/Users/h4/Downloads/Najah_3/node_modules/react-native-ble-manager/ios/Helper.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/Helper.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/Helper.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/react-native-ble-manager.build/Objects-normal/arm64/Helper.o"
+  }
+}

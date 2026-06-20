@@ -1,0 +1,1035 @@
+{
+  "" : {
+    "const-values" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/MultiplatformBleAdapter-master.swiftconstvalues",
+    "dependencies" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/MultiplatformBleAdapter-master.d",
+    "diagnostics" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/MultiplatformBleAdapter-master.dia",
+    "emit-module-dependencies" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/MultiplatformBleAdapter-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/MultiplatformBleAdapter-master-emit-module.dia",
+    "swift-dependencies" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/MultiplatformBleAdapter-master.swiftdeps"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/classes/BleAdapter.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleAdapter.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleAdapter.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleAdapter.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/classes/BleAdapterFactory.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleAdapterFactory.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleAdapterFactory.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleAdapterFactory.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/classes/BleError.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleError.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleError.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleError.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/classes/BleEvent.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleEvent.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleEvent.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleEvent.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/classes/BleExtensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleExtensions.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleExtensions.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleExtensions.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/classes/BleModule.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleModule.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleModule.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleModule.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/classes/BleUtils.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleUtils.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleUtils.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BleUtils.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/classes/Utils/DisposableMap.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DisposableMap.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DisposableMap.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DisposableMap.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/classes/Utils/SafePromise.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SafePromise.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SafePromise.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SafePromise.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/AdvertisementData.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AdvertisementData.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AdvertisementData.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AdvertisementData.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Array+Utils.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Array+Utils.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Array+Utils.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Array+Utils.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/BluetoothError.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BluetoothError.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BluetoothError.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BluetoothError.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/BluetoothManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BluetoothManager.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BluetoothManager.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BluetoothManager.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/BluetoothState.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BluetoothState.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BluetoothState.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BluetoothState.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Boxes.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Boxes.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Boxes.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Boxes.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/CBCentral+Uuid.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CBCentral+Uuid.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CBCentral+Uuid.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CBCentral+Uuid.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/CBCentralManagerDelegateWrapper.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CBCentralManagerDelegateWrapper.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CBCentralManagerDelegateWrapper.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CBCentralManagerDelegateWrapper.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/CBPeripheralDelegateWrapper.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CBPeripheralDelegateWrapper.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CBPeripheralDelegateWrapper.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CBPeripheralDelegateWrapper.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Characteristic.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Characteristic.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Characteristic.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Characteristic.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Descriptor.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Descriptor.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Descriptor.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Descriptor.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/DeviceIdentifiers.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DeviceIdentifiers.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DeviceIdentifiers.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DeviceIdentifiers.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Logging.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Logging.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Logging.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Logging.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/ManagerType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ManagerType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ManagerType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ManagerType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Observable+Absorb.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable+Absorb.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable+Absorb.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable+Absorb.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Observable+QueueSubscribeOn.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable+QueueSubscribeOn.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable+QueueSubscribeOn.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable+QueueSubscribeOn.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Peripheral.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Peripheral.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Peripheral.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Peripheral.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Peripheral+Convenience.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Peripheral+Convenience.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Peripheral+Convenience.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Peripheral+Convenience.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RestoredState.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RestoredState.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RestoredState.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RestoredState.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RxCBCentralManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBCentralManager.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBCentralManager.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBCentralManager.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RxCBCharacteristic.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBCharacteristic.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBCharacteristic.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBCharacteristic.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RxCBDescriptor.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBDescriptor.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBDescriptor.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBDescriptor.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RxCBPeripheral.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBPeripheral.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBPeripheral.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBPeripheral.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RxCBService.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBService.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBService.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCBService.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RxCentralManagerType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCentralManagerType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCentralManagerType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCentralManagerType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RxCharacteristicType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCharacteristicType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCharacteristicType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxCharacteristicType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RxDescriptorType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxDescriptorType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxDescriptorType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxDescriptorType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RxPeripheralType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxPeripheralType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxPeripheralType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxPeripheralType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/RxServiceType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxServiceType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxServiceType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxServiceType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/ScannedPeripheral.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScannedPeripheral.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScannedPeripheral.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScannedPeripheral.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/ScanOperation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScanOperation.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScanOperation.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScanOperation.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Service.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Service.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Service.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Service.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/Unimplemented.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Unimplemented.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Unimplemented.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Unimplemented.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxBluetoothKit/UUIDIdentifiable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/UUIDIdentifiable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/UUIDIdentifiable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/UUIDIdentifiable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/AnyObserver.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AnyObserver.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AnyObserver.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AnyObserver.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Binder.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Binder.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Binder.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Binder.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Cancelable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Cancelable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Cancelable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Cancelable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Concurrency/AsyncLock.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsyncLock.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsyncLock.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsyncLock.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Concurrency/Lock.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Lock.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Lock.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Lock.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Concurrency/LockOwnerType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/LockOwnerType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/LockOwnerType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/LockOwnerType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Concurrency/SynchronizedDisposeType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SynchronizedDisposeType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SynchronizedDisposeType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SynchronizedDisposeType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Concurrency/SynchronizedOnType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SynchronizedOnType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SynchronizedOnType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SynchronizedOnType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Concurrency/SynchronizedUnsubscribeType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SynchronizedUnsubscribeType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SynchronizedUnsubscribeType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SynchronizedUnsubscribeType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/ConnectableObservableType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ConnectableObservableType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ConnectableObservableType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ConnectableObservableType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Date+Dispatch.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Date+Dispatch.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Date+Dispatch.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Date+Dispatch.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Disposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Disposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Disposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/AnonymousDisposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AnonymousDisposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AnonymousDisposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AnonymousDisposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/BinaryDisposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BinaryDisposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BinaryDisposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BinaryDisposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/BooleanDisposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BooleanDisposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BooleanDisposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BooleanDisposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/CompositeDisposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CompositeDisposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CompositeDisposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CompositeDisposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/Disposables.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Disposables.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Disposables.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Disposables.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/DisposeBag.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DisposeBag.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DisposeBag.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DisposeBag.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/DisposeBase.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DisposeBase.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DisposeBase.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DisposeBase.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/NopDisposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/NopDisposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/NopDisposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/NopDisposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/RefCountDisposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RefCountDisposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RefCountDisposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RefCountDisposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/ScheduledDisposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScheduledDisposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScheduledDisposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScheduledDisposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/SerialDisposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SerialDisposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SerialDisposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SerialDisposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/SingleAssignmentDisposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SingleAssignmentDisposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SingleAssignmentDisposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SingleAssignmentDisposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Disposables/SubscriptionDisposable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SubscriptionDisposable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SubscriptionDisposable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SubscriptionDisposable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Errors.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Errors.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Errors.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Errors.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Event.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Event.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Event.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Event.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Extensions/Bag+Rx.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Bag+Rx.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Bag+Rx.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Bag+Rx.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/GroupedObservable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/GroupedObservable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/GroupedObservable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/GroupedObservable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/ImmediateSchedulerType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ImmediateSchedulerType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ImmediateSchedulerType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ImmediateSchedulerType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observable+Concurrency.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable+Concurrency.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable+Concurrency.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Observable+Concurrency.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/ObservableConvertibleType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableConvertibleType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableConvertibleType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableConvertibleType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/AddRef.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AddRef.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AddRef.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AddRef.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Amb.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Amb.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Amb.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Amb.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/AsMaybe.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsMaybe.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsMaybe.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsMaybe.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/AsSingle.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsSingle.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsSingle.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsSingle.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Buffer.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Buffer.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Buffer.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Buffer.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Catch.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Catch.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Catch.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Catch.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/CombineLatest.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CombineLatest.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CombineLatest.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CombineLatest.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/CombineLatest+arity.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CombineLatest+arity.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CombineLatest+arity.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CombineLatest+arity.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/CombineLatest+Collection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CombineLatest+Collection.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CombineLatest+Collection.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CombineLatest+Collection.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/CompactMap.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CompactMap.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CompactMap.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CompactMap.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Concat.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Concat.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Concat.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Concat.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Create.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Create.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Create.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Create.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Debounce.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Debounce.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Debounce.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Debounce.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Debug.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Debug.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Debug.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Debug.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Decode.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Decode.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Decode.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Decode.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/DefaultIfEmpty.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DefaultIfEmpty.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DefaultIfEmpty.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DefaultIfEmpty.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Deferred.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Deferred.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Deferred.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Deferred.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Delay.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Delay.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Delay.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Delay.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/DelaySubscription.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DelaySubscription.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DelaySubscription.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DelaySubscription.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Dematerialize.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Dematerialize.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Dematerialize.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Dematerialize.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/DistinctUntilChanged.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DistinctUntilChanged.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DistinctUntilChanged.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DistinctUntilChanged.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Do.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Do.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Do.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Do.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/ElementAt.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ElementAt.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ElementAt.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ElementAt.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Empty.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Empty.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Empty.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Empty.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Enumerated.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Enumerated.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Enumerated.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Enumerated.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Error.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Error.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Error.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Error.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Filter.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Filter.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Filter.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Filter.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/First.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/First.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/First.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/First.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Generate.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Generate.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Generate.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Generate.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/GroupBy.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/GroupBy.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/GroupBy.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/GroupBy.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Just.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Just.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Just.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Just.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Map.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Map.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Map.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Map.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Materialize.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Materialize.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Materialize.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Materialize.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Merge.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Merge.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Merge.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Merge.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Multicast.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Multicast.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Multicast.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Multicast.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Never.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Never.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Never.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Never.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/ObserveOn.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObserveOn.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObserveOn.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObserveOn.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Optional.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Optional.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Optional.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Optional.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Producer.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Producer.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Producer.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Producer.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Range.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Range.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Range.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Range.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Reduce.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Reduce.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Reduce.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Reduce.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Repeat.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Repeat.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Repeat.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Repeat.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/RetryWhen.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RetryWhen.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RetryWhen.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RetryWhen.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Sample.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Sample.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Sample.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Sample.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Scan.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Scan.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Scan.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Scan.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Sequence.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Sequence.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Sequence.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Sequence.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/ShareReplayScope.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ShareReplayScope.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ShareReplayScope.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ShareReplayScope.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/SingleAsync.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SingleAsync.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SingleAsync.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SingleAsync.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Sink.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Sink.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Sink.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Sink.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Skip.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Skip.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Skip.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Skip.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/SkipUntil.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SkipUntil.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SkipUntil.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SkipUntil.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/SkipWhile.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SkipWhile.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SkipWhile.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SkipWhile.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/StartWith.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/StartWith.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/StartWith.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/StartWith.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/SubscribeOn.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SubscribeOn.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SubscribeOn.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SubscribeOn.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Switch.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Switch.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Switch.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Switch.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/SwitchIfEmpty.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SwitchIfEmpty.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SwitchIfEmpty.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SwitchIfEmpty.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Take.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Take.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Take.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Take.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/TakeLast.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/TakeLast.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/TakeLast.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/TakeLast.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/TakeWithPredicate.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/TakeWithPredicate.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/TakeWithPredicate.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/TakeWithPredicate.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Throttle.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Throttle.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Throttle.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Throttle.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Timeout.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Timeout.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Timeout.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Timeout.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Timer.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Timer.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Timer.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Timer.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/ToArray.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ToArray.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ToArray.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ToArray.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Using.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Using.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Using.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Using.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Window.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Window.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Window.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Window.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/WithLatestFrom.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/WithLatestFrom.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/WithLatestFrom.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/WithLatestFrom.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/WithUnretained.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/WithUnretained.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/WithUnretained.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/WithUnretained.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Zip.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Zip.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Zip.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Zip.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Zip+arity.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Zip+arity.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Zip+arity.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Zip+arity.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observables/Zip+Collection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Zip+Collection.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Zip+Collection.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Zip+Collection.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/ObservableType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/ObservableType+Extensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableType+Extensions.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableType+Extensions.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableType+Extensions.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observers/AnonymousObserver.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AnonymousObserver.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AnonymousObserver.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AnonymousObserver.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observers/ObserverBase.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObserverBase.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObserverBase.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObserverBase.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Observers/TailRecursiveSink.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/TailRecursiveSink.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/TailRecursiveSink.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/TailRecursiveSink.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/ObserverType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObserverType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObserverType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObserverType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Platform/AtomicInt.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AtomicInt.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AtomicInt.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AtomicInt.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Platform/DataStructures/Bag.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Bag.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Bag.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Bag.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Platform/DataStructures/InfiniteSequence.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/InfiniteSequence.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/InfiniteSequence.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/InfiniteSequence.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Platform/DataStructures/PriorityQueue.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PriorityQueue.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PriorityQueue.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PriorityQueue.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Platform/DataStructures/Queue.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Queue.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Queue.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Queue.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Platform/DispatchQueue+Extensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DispatchQueue+Extensions.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DispatchQueue+Extensions.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DispatchQueue+Extensions.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Platform/Platform.Darwin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Platform.Darwin.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Platform.Darwin.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Platform.Darwin.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Platform/Platform.Linux.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Platform.Linux.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Platform.Linux.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Platform.Linux.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Platform/RecursiveLock.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RecursiveLock.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RecursiveLock.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RecursiveLock.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Reactive.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Reactive.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Reactive.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Reactive.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Rx.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Rx.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Rx.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Rx.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/RxMutableBox.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxMutableBox.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxMutableBox.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RxMutableBox.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/ConcurrentDispatchQueueScheduler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ConcurrentDispatchQueueScheduler.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ConcurrentDispatchQueueScheduler.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ConcurrentDispatchQueueScheduler.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/ConcurrentMainScheduler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ConcurrentMainScheduler.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ConcurrentMainScheduler.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ConcurrentMainScheduler.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/CurrentThreadScheduler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CurrentThreadScheduler.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CurrentThreadScheduler.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/CurrentThreadScheduler.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/HistoricalScheduler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/HistoricalScheduler.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/HistoricalScheduler.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/HistoricalScheduler.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/HistoricalSchedulerTimeConverter.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/HistoricalSchedulerTimeConverter.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/HistoricalSchedulerTimeConverter.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/HistoricalSchedulerTimeConverter.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/Internal/DispatchQueueConfiguration.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DispatchQueueConfiguration.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DispatchQueueConfiguration.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/DispatchQueueConfiguration.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/Internal/InvocableScheduledItem.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/InvocableScheduledItem.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/InvocableScheduledItem.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/InvocableScheduledItem.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/Internal/InvocableType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/InvocableType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/InvocableType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/InvocableType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/Internal/ScheduledItem.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScheduledItem.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScheduledItem.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScheduledItem.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/Internal/ScheduledItemType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScheduledItemType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScheduledItemType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ScheduledItemType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/MainScheduler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/MainScheduler.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/MainScheduler.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/MainScheduler.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/OperationQueueScheduler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/OperationQueueScheduler.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/OperationQueueScheduler.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/OperationQueueScheduler.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/RecursiveScheduler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RecursiveScheduler.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RecursiveScheduler.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/RecursiveScheduler.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/SchedulerServices+Emulation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SchedulerServices+Emulation.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SchedulerServices+Emulation.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SchedulerServices+Emulation.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/SerialDispatchQueueScheduler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SerialDispatchQueueScheduler.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SerialDispatchQueueScheduler.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SerialDispatchQueueScheduler.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/VirtualTimeConverterType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/VirtualTimeConverterType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/VirtualTimeConverterType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/VirtualTimeConverterType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Schedulers/VirtualTimeScheduler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/VirtualTimeScheduler.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/VirtualTimeScheduler.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/VirtualTimeScheduler.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/SchedulerType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SchedulerType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SchedulerType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SchedulerType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Subjects/AsyncSubject.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsyncSubject.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsyncSubject.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/AsyncSubject.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Subjects/BehaviorSubject.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BehaviorSubject.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BehaviorSubject.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/BehaviorSubject.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Subjects/PublishSubject.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PublishSubject.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PublishSubject.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PublishSubject.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Subjects/ReplaySubject.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ReplaySubject.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ReplaySubject.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ReplaySubject.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Subjects/SubjectType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SubjectType.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SubjectType.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SubjectType.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/SwiftSupport/SwiftSupport.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SwiftSupport.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SwiftSupport.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/SwiftSupport.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/Infallible/Infallible.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/Infallible/Infallible+CombineLatest+arity.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+CombineLatest+arity.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+CombineLatest+arity.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+CombineLatest+arity.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/Infallible/Infallible+CombineLatest+Collection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+CombineLatest+Collection.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+CombineLatest+Collection.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+CombineLatest+Collection.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/Infallible/Infallible+Concurrency.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Concurrency.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Concurrency.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Concurrency.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/Infallible/Infallible+Create.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Create.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Create.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Create.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/Infallible/Infallible+Debug.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Debug.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Debug.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Debug.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/Infallible/Infallible+Operators.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Operators.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Operators.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Operators.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/Infallible/Infallible+Zip+arity.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Zip+arity.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Zip+arity.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Infallible+Zip+arity.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/Infallible/ObservableConvertibleType+Infallible.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableConvertibleType+Infallible.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableConvertibleType+Infallible.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableConvertibleType+Infallible.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/PrimitiveSequence/Completable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Completable.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Completable.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Completable.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/PrimitiveSequence/Completable+AndThen.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Completable+AndThen.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Completable+AndThen.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Completable+AndThen.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/PrimitiveSequence/Maybe.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Maybe.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Maybe.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Maybe.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/PrimitiveSequence/ObservableType+PrimitiveSequence.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableType+PrimitiveSequence.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableType+PrimitiveSequence.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/ObservableType+PrimitiveSequence.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/PrimitiveSequence/PrimitiveSequence.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PrimitiveSequence.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PrimitiveSequence.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PrimitiveSequence.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/PrimitiveSequence/PrimitiveSequence+Concurrency.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PrimitiveSequence+Concurrency.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PrimitiveSequence+Concurrency.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PrimitiveSequence+Concurrency.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/PrimitiveSequence/PrimitiveSequence+Zip+arity.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PrimitiveSequence+Zip+arity.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PrimitiveSequence+Zip+arity.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/PrimitiveSequence+Zip+arity.o"
+  },
+  "/Users/h4/Downloads/Najah_3/ios/Pods/MultiplatformBleAdapter/iOS/RxSwift/Traits/PrimitiveSequence/Single.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Single.o",
+    "llvm-bc" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Single.bc",
+    "object" : "/Users/h4/Downloads/Najah_3/ios/build/Pods.build/Release-iphoneos/MultiplatformBleAdapter.build/Objects-normal/arm64/Single.o"
+  }
+}
