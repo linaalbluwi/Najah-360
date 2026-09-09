@@ -1,0 +1,1 @@
+Najah 360 is a cross-platform emergency communication app designed to work without internet, cellular networks, or a central server, It uses an offline mesh network to exchange emergency alerts and messages through Bluetooth Low Energy, Wi-Fi Direct, and MultipeerConnectivity.
